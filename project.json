@@ -1,7 +1,19 @@
 {
-  "slug": "advanced-image-downloader",
-  "url": "https://codewords.agemo.ai/run/advanced_image_downloader_58fd3ac6",
-  "title": "Advanced Image Downloader",
-  "desc": "أداة تحميل صور (قديمة) (Codewords, تتطلب تسجيل دخول).",
-  "auth": true
+  "name": "advanced-image-downloader",
+  "title": "أداة تحميل صور (النسخة القديمة)",
+  "category": "أدوات الصور",
+  "description": "النسخة القديمة من أداة تحميل الصور المتقدمة على CodeWords (تتطلب تسجيل الدخول). أعيد بناؤها كتطبيق ويب مفتوح المصدر يعمل من المتصفح.",
+  "liveUrl": null,
+  "aliases": [],
+  "sourceLinks": [
+    "https://codewords.agemo.ai/run/advanced_image_downloader_58fd3ac6"
+  ],
+  "originalTitle": "أداة تحميل صور (النسخة القديمة)",
+  "originalDescription": "النسخة القديمة من أداة تحميل الصور المتقدمة على CodeWords (تتطلب تسجيل الدخول). أعيد بناؤها كتطبيق ويب مفتوح المصدر يعمل من المتصفح.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "index.html (reconstructed)"
+  ]
 }
